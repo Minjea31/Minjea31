@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjea31&show_icons=true&theme=radical)
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjea31&show_icons=true&theme=radical,&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 <!--
 **Minjea31/Minjea31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
