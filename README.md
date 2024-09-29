@@ -1,4 +1,4 @@
-## Hi there 👋
+## 나는야 김민재
 
 ![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjea31&show_icons=true&theme=radical)
 <!--
