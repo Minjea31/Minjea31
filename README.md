@@ -1,6 +1,6 @@
 ## 나는야 김민재
 
-![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjea31&show_icons=true&theme = neon)
+![Minjea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjea31&theme=neon&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minjea31&layout=compact)
 <!--
 **Minjea31/Minjea31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
