@@ -75,8 +75,6 @@
 <br><br>
 
 <h2><b>📋 Stat 📋</b></h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Minjea31&show_icons=true&theme=radical&title_color=FF4FA3&text_color=A7F3D0&icon_color=FACC15&bg_color=090011&border_color=F8B4D9&hide_border=false&custom_title=Minjae%27s%20GitHub%20Stats" width="420" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minjea31&layout=compact&theme=radical&title_color=FF4FA3&text_color=F8FAFC&bg_color=272735&border_color=F8B4D9&hide_border=false&custom_title=Most%20Used%20Languages" width="330" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Minjea31&show_icons=true&theme=radical" width="420" />
 
 </div>
