@@ -1,58 +1,82 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=%EB%AF%BC%EC%9E%AC%27s%20GITHUB&fontColor=ffffff&fontSize=40" />
+  <img src="./assets/header.svg" alt="Minjae's GitHub" width="405" />
+  <br><br>
+
+<a href="https://hits.sh/github.com/Minjea31/Minjea31.git/">
+  <img src="https://hits.sh/github.com/Minjea31/Minjea31.git.svg?view=today-total&label=Visitor&color=475569&logo=github" />
+</a>
+<br><br>
+
+<h2>👨‍💻 Contact me 👨‍💻</h2>
+<a href="mailto:kimminjea31@naver.com">
+  <img src="https://img.shields.io/badge/Naver-kimminjea31%40naver.com-2F4A3A?style=for-the-badge&logo=naver&logoColor=white" />
+</a>
+<br>
+<a href="mailto:kimminjea31@chungbuk.ac.kr">
+  <img src="https://img.shields.io/badge/CBNU-kimminjea31%40chungbuk.ac.kr-2E3E5C?style=for-the-badge&logo=maildotru&logoColor=white" />
+</a>
+<br><br>
+
+<h2><b>Language</b></h2>
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
+<br><br>
+
+<h2><b>Interests</b></h2>
+<img src="https://img.shields.io/badge/Model%20Compression-263142?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTUgN2gxNE04IDEyaDhNMTAgMTdoNCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik04IDVsLTMgMiAzIDJNMTYgMTBsMyAyLTMgMk0xMCAxNWwtMyAyIDMgMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=" />
+<br>
+<img src="https://img.shields.io/badge/Pruning-2F4A3A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYgNmMwIDMgMyA2IDYgNnM2IDMgNiA2IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik02IDE4YzAtMyAzLTYgNi02czYtMyA2LTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPHBhdGggZD0iTTE2IDRoNHY0TTE2IDIwaDR2LTQiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B" />
+<img src="https://img.shields.io/badge/Quantization-463E5C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTggOGg4TTggMTJoNU04IDE2aDMiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B" />
+<br>
+<img src="https://img.shields.io/badge/LLM-2E3E5C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTQgNmEzIDMgMCAwMTMtM2gxMGEzIDMgMCAwMTMgM3Y3YTMgMyAwIDAxLTMgM2gtNWwtNSA0di00SDdhMyAzIDAgMDEtMy0zeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTggOGg4TTggMTJoNSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=" />
+<img src="https://img.shields.io/badge/VLM-5A3D4D?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIuNSAxMnMzLjUtNiA5LjUtNiA5LjUgNiA5LjUgNi0zLjUgNi05LjUgNi05LjUtNi05LjUtNnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B" />
+<br><br>
+
+<h2><b>Tool</b></h2>
+
+<table align="center">
+  <tr>
+    <th>Robotics</th>
+    <td>
+      <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>AI / ML</th>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-5A3B35?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-5C5330?style=for-the-badge&logo=huggingface&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-314C43?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO-263455?style=for-the-badge&logo=yolo&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Development</th>
+    <td>
+      <img src="https://img.shields.io/badge/Visual_Studio-463E5C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iNCIgZmlsbD0id2hpdGUiLz48dGV4dCB4PSIxMiIgeT0iMTUuNSIgZm9udC1zaXplPSI4IiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzQ2M0U1QyI%2BVlM8L3RleHQ%2BPC9zdmc%2B" />
+      <img src="https://img.shields.io/badge/VSCode-2F4A5C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC43IDQuMWwtMy44LTEuOGExIDEgMCAwIDAtMS4xLjJMOC42IDkgNS40IDYuNmEuNy43IDAgMCAwLS45IDBMMi40IDguNWEuNy43IDAgMCAwIDAgMWwyLjggMi41LTIuOCAyLjVhLjcuNyAwIDAgMCAwIDFsMi4xIDEuOWEuNy43IDAgMCAwIC45IDBMOC42IDE1bDcuMiA2LjVhMSAxIDAgMCAwIDEuMS4ybDMuOC0xLjhhMSAxIDAgMCAwIC42LS45VjVhMSAxIDAgMCAwLS42LS45ek0xNi40IDE2LjRMMTEgMTJsNS40LTQuNHY4Ljh6Ii8+PC9zdmc+" />
+    </td>
+  </tr>
+  <tr>
+    <th>Docs / Design</th>
+    <td>
+      <img src="https://img.shields.io/badge/Notion-1F2937?style=for-the-badge&logo=notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/draw.io-5A463D?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Infra / OS</th>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2F4A5C?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu-5A3B35?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h2><b>📋 Stat 📋</b></h2>
+<img src="https://github-readme-stats.vercel.app/api?username=Minjea31&show_icons=true&theme=radical&title_color=FF4FA3&text_color=A7F3D0&icon_color=FACC15&bg_color=090011&border_color=F8B4D9&hide_border=false&custom_title=Minjae%27s%20GitHub%20Stats" width="420" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minjea31&layout=compact&theme=radical&title_color=FF4FA3&text_color=F8FAFC&bg_color=272735&border_color=F8B4D9&hide_border=false&custom_title=Most%20Used%20Languages" width="330" />
+
 </div>
-
-[![Hits](https://hits.sh/github.com/Minjea31/Minjea31.git.svg?view=today-total&label=Visitor&color=9f9f9f&logo=github)](https://hits.sh/github.com/Minjea31/Minjea31.git/)
-<br>
-
-**Language**
-<br>
-![My Skills](https://skillicons.dev/icons?i=python,cpp&theme=light)
-<br><br>
-
-**Interests**
-<br>
-![Model Compression](https://img.shields.io/badge/Model%20Compression-1F2937?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTUgN2gxNE04IDEyaDhNMTAgMTdoNCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik04IDVsLTMgMiAzIDJNMTYgMTBsMyAyLTMgMk0xMCAxNWwtMyAyIDMgMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=)
-<br>
-![Pruning](https://img.shields.io/badge/Pruning-16A34A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYgNmMwIDMgMyA2IDYgNnM2IDMgNiA2IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik02IDE4YzAtMyAzLTYgNi02czYtMyA2LTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPHBhdGggZD0iTTE2IDRoNHY0TTE2IDIwaDR2LTQiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B)
-![Quantization](https://img.shields.io/badge/Quantization-7C3AED?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTggOGg4TTggMTJoNU04IDE2aDMiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B)
-<br>
-![LLM](https://img.shields.io/badge/LLM-2563EB?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTQgNmEzIDMgMCAwMTMtM2gxMGEzIDMgMCAwMTMgM3Y3YTMgMyAwIDAxLTMgM2gtNWwtNSA0di00SDdhMyAzIDAgMDEtMy0zeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTggOGg4TTggMTJoNSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=)
-![VLM](https://img.shields.io/badge/VLM-E11D48?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIuNSAxMnMzLjUtNiA5LjUtNiA5LjUgNiA5LjUgNi0zLjUgNi05LjUgNi05LjUtNi05LjUtNnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B)
-<br><br>
-
-**Tool**
-<br>
-
-**Robotics**
-<br>
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-<br><br>
-
-**AI / ML**
-<br>
-![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTEiIGZpbGw9IiNmZmYiLz48dGV4dCB4PSIxMiIgeT0iMTUuNSIgZm9udC1zaXplPSI4IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM0MTI5OTEiPkdQVDwvdGV4dD48L3N2Zz4=)
-![Claude](https://img.shields.io/badge/Claude-D06A58?style=for-the-badge&logo=anthropic&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
-<br><br>
-
-**Development**
-<br>
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iNCIgZmlsbD0id2hpdGUiLz48dGV4dCB4PSIxMiIgeT0iMTUuNSIgZm9udC1zaXplPSI4IiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzVDMkQ5MSI%2BVlM8L3RleHQ%2BPC9zdmc%2B)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-<br><br>
-
-**Docs / Design**
-<br>
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
-<br><br>
-
-**Infra / OS**
-<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<br><br>
