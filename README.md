@@ -75,6 +75,6 @@
 <br><br>
 
 <h2><b>📋 Stat 📋</b></h2>
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Minjea31&show_icons=true&theme=radical" width="420" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Minjea31&show_icons=true&theme=radical&count_private=true" width="420" />
 
 </div>
