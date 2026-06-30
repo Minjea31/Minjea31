@@ -22,3 +22,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TOTAL: true
+          TIME_RANGE: all_time
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
