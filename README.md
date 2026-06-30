@@ -78,3 +78,8 @@
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Minjea31&show_icons=true&theme=radical&count_private=true" width="420" />
 
 </div>
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
