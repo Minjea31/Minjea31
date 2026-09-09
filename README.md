@@ -47,6 +47,7 @@
       <img src="https://img.shields.io/badge/Hugging%20Face-5C5330?style=for-the-badge&logo=huggingface&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-314C43?style=for-the-badge&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/YOLO-263455?style=for-the-badge&logo=yolo&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorRT-2F4A3A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iNSIgeT0iNSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTMgOXY2TTIxIDl2Nk05IDNoNk05IDIxaDYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPHBhdGggZD0iTTEzIDdsLTQgNmgzbC0xIDQgNC02aC0zbDEtNHoiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B" />
     </td>
   </tr>
   <tr>
