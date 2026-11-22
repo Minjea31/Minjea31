@@ -88,11 +88,9 @@
 
 ## Model Optimization
 
-**Pruning · Quantization · Inference Profiling**
-
-- CNN·VLM 대상 모델 구조·정밀도 최적화
-- 구조적 프루닝·양자화·추론 동작 실험
-- 정확도·메모리·실행 비용 비교
+<p>
+  <img src="./assets/optimization-intro.svg" alt="Pruning · Quantization · Inference Profiling — CNN·VLM 대상 모델 구조·정밀도 최적화; 구조적 프루닝·양자화·추론 동작 실험; 정확도·메모리·실행 비용 비교" width="100%" />
+</p>
 
 <picture>
   <img src="./assets/optimization.svg" alt="채널 프루닝과 가중치 양자화를 나타내는 개념도" width="900" />
@@ -100,13 +98,36 @@
 
 ### Selected Projects
 
-| Project | Work |
-| :--- | :--- |
-| **[TinyLLaVA-PruneQuant](https://github.com/Minjea31/TinyLLaVA-PruneQuant)**<br><sub>VLM · Quantization</sub> | • FP16·INT4·혼합 정밀도 비교<br>• 정확도·Peak VRAM·처리 시간 기록 |
-| **[yolov12_pruning](https://github.com/Minjea31/yolov12_pruning)**<br><sub>Structured Pruning</sub> | • FPGM 기반 채널 프루닝·모델 구조 재구성<br>• 레이어별 프루닝 비율 실험 |
-| **[yolov12_HRANK_Pruning](https://github.com/Minjea31/yolov12_HRANK_Pruning)**<br><sub>Comparative Study</sub> | • 동일 프루닝 비율의 HRank·FPGM·Random 비교<br>• 특징 맵 rank의 변별력 분석 |
-| **[yolo26_FPGM_pruning](https://github.com/Minjea31/yolo26_FPGM_pruning)**<br><sub>Channel Pruning · Fine-tuning</sub> | • YOLO26 채널 제거·모델 구조 재구성<br>• 재구성 모델 파인튜닝 |
-| **[yolo26_quntization](https://github.com/Minjea31/yolo26_quntization)**<br>**[yolo26_TensorRT](https://github.com/Minjea31/yolo26_TensorRT)**<br><sub>PTQ · ONNX · TensorRT</sub> | • 양자화 민감도·실행 커널 분석<br>• ONNX·TensorRT 변환·추론 검증 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%" align="left">Project</th>
+      <th width="9999" align="left">Work</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td><strong><a href="https://github.com/Minjea31/TinyLLaVA-PruneQuant">TinyLLaVA-PruneQuant</a></strong><br><sub>VLM · Quantization</sub></td>
+    <td>• FP16·INT4·혼합 정밀도 비교<br>• 정확도·Peak VRAM·처리 시간 기록</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Minjea31/yolov12_pruning">yolov12_pruning</a></strong><br><sub>Structured Pruning</sub></td>
+    <td>• FPGM 기반 채널 프루닝·모델 구조 재구성<br>• 레이어별 프루닝 비율 실험</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Minjea31/yolov12_HRANK_Pruning">yolov12_HRANK_Pruning</a></strong><br><sub>Comparative Study</sub></td>
+    <td>• 동일 프루닝 비율의 HRank·FPGM·Random 비교<br>• 특징 맵 rank의 변별력 분석</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Minjea31/yolo26_FPGM_pruning">yolo26_FPGM_pruning</a></strong><br><sub>Channel Pruning · Fine-tuning</sub></td>
+    <td>• YOLO26 채널 제거·모델 구조 재구성<br>• 재구성 모델 파인튜닝</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Minjea31/yolo26_quntization">yolo26_quntization</a></strong><br><strong><a href="https://github.com/Minjea31/yolo26_TensorRT">yolo26_TensorRT</a></strong><br><sub>PTQ · ONNX · TensorRT</sub></td>
+    <td>• 양자화 민감도·실행 커널 분석<br>• ONNX·TensorRT 변환·추론 검증</td>
+  </tr>
+  </tbody>
+</table>
 
 ### Experiment Notes
 
