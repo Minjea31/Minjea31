@@ -90,8 +90,9 @@
 
 **Pruning · Quantization · Inference Profiling**
 
-모델의 구조와 정밀도를 바꾸고, 정확도와 실행 비용을 비교합니다.
-CNN과 VLM을 대상으로 구조적 프루닝, 양자화, 추론 동작을 실험하고 있습니다.
+- CNN·VLM 대상 모델 구조·정밀도 최적화
+- 구조적 프루닝·양자화·추론 동작 실험
+- 정확도·메모리·실행 비용 비교
 
 <picture>
   <img src="./assets/optimization.svg" alt="채널 프루닝과 가중치 양자화를 나타내는 개념도" width="900" />
@@ -101,11 +102,11 @@ CNN과 VLM을 대상으로 구조적 프루닝, 양자화, 추론 동작을 실�
 
 | Project | Work |
 | :--- | :--- |
-| **[TinyLLaVA-PruneQuant](https://github.com/Minjea31/TinyLLaVA-PruneQuant)**<br><sub>VLM · Quantization</sub> | FP16·INT4·혼합 정밀도를 비교하고, 정확도·Peak VRAM·처리 시간을 기록합니다. |
-| **[yolov12_pruning](https://github.com/Minjea31/yolov12_pruning)**<br><sub>Structured Pruning</sub> | FPGM 기반 채널 프루닝과 모델 구조 재구성, 레이어별 프루닝 비율을 실험합니다. |
-| **[yolov12_HRANK_Pruning](https://github.com/Minjea31/yolov12_HRANK_Pruning)**<br><sub>Comparative Study</sub> | 동일한 프루닝 비율에서 HRank·FPGM·Random을 비교하고, 특징 맵 rank의 변별력을 분석합니다. |
-| **[yolo26_FPGM_pruning](https://github.com/Minjea31/yolo26_FPGM_pruning)**<br><sub>Channel Pruning · Fine-tuning</sub> | YOLO26의 채널을 제거하고 구조를 재구성한 모델로 파인튜닝합니다. |
-| **[yolo26_quntization](https://github.com/Minjea31/yolo26_quntization)**<br>**[yolo26_TensorRT](https://github.com/Minjea31/yolo26_TensorRT)**<br><sub>PTQ · ONNX · TensorRT</sub> | 양자화 민감도와 실제 실행 커널을 분석하고, ONNX·TensorRT 변환 및 추론을 확인합니다. |
+| **[TinyLLaVA-PruneQuant](https://github.com/Minjea31/TinyLLaVA-PruneQuant)**<br><sub>VLM · Quantization</sub> | • FP16·INT4·혼합 정밀도 비교<br>• 정확도·Peak VRAM·처리 시간 기록 |
+| **[yolov12_pruning](https://github.com/Minjea31/yolov12_pruning)**<br><sub>Structured Pruning</sub> | • FPGM 기반 채널 프루닝·모델 구조 재구성<br>• 레이어별 프루닝 비율 실험 |
+| **[yolov12_HRANK_Pruning](https://github.com/Minjea31/yolov12_HRANK_Pruning)**<br><sub>Comparative Study</sub> | • 동일 프루닝 비율의 HRank·FPGM·Random 비교<br>• 특징 맵 rank의 변별력 분석 |
+| **[yolo26_FPGM_pruning](https://github.com/Minjea31/yolo26_FPGM_pruning)**<br><sub>Channel Pruning · Fine-tuning</sub> | • YOLO26 채널 제거·모델 구조 재구성<br>• 재구성 모델 파인튜닝 |
+| **[yolo26_quntization](https://github.com/Minjea31/yolo26_quntization)**<br>**[yolo26_TensorRT](https://github.com/Minjea31/yolo26_TensorRT)**<br><sub>PTQ · ONNX · TensorRT</sub> | • 양자화 민감도·실행 커널 분석<br>• ONNX·TensorRT 변환·추론 검증 |
 
 ### Experiment Notes
 
@@ -118,15 +119,13 @@ CNN과 VLM을 대상으로 구조적 프루닝, 양자화, 추론 동작을 실�
 
 **Industry Project**
 
-- [MKsolution](https://github.com/Minjea31/MKsolution): MKsolution 기업과 진행한 YOLO 모델 학습·프루닝 과제.
+- [MKsolution](https://github.com/Minjea31/MKsolution): MKsolution 기업 연계 · YOLO 모델 학습·프루닝 과제
 
 **Research Archive**
 
-- [LLAVA_ARCH_study](https://github.com/Minjea31/LLAVA_ARCH_study): LLaVA-7B 구조 분석, 프루닝·양자화 실험과 실행 비용 기록.
+- [LLAVA_ARCH_study](https://github.com/Minjea31/LLAVA_ARCH_study): LLaVA-7B 구조 분석·프루닝·양자화 실험 및 실행 비용 기록
 
-**Reference Forks**
-
-아래 저장소는 논문 구현을 참고하기 위한 Fork입니다.
+**Reference Forks · 논문 구현 참고용**
 
 - [FPGM](https://github.com/Minjea31/filter-pruning-geometric-median) — 원본: [he-y](https://github.com/he-y/filter-pruning-geometric-median)
 - [HRank](https://github.com/Minjea31/HRank) — 원본: [lmbxmu](https://github.com/lmbxmu/HRank)
@@ -155,10 +154,10 @@ CNN과 VLM을 대상으로 구조적 프루닝, 양자화, 추론 동작을 실�
 
 | Project | Work |
 | :--- | :--- |
-| **[LaneCompletion](https://github.com/Minjea31/LaneCompletion)**<br><sub>Lane Segmentation · ResNet-UNet · SegFormer</sub> | TuSimple 데이터로 차선 영역을 복원하고, 분할 모델과 손실 함수를 비교합니다. |
-| **[2025-Clothoid-R-Perception-JEJU](https://github.com/Minjea31/2025-Clothoid-R-Perception-JEJU)**<br><sub>Team Project · Camera Perception</sub> | Camera 인지 파트에 참여한 팀 프로젝트의 Fork입니다. 카메라 객체 검출과 ROS 기반 인지 시스템을 다룹니다. |
-| **[2026-AutoRace](https://github.com/Minjea31/2026-AutoRace)**<br><sub>Lane / Object Detection · ROS 2</sub> | 카메라 기반 차선·표지판·객체 인지를 중심으로, 검출 결과를 미션별 주행 시스템에 연동합니다. |
-| **[Clothoid-R_seminar](https://github.com/Minjea31/Clothoid-R_seminar)**<br><sub>YOLO · Camera Perception · ROS 2</sub> | 객체 검출 모델 학습과 카메라 인지 실습, ROS 2 검출 결과 연동을 정리합니다. |
+| **[LaneCompletion](https://github.com/Minjea31/LaneCompletion)**<br><sub>Lane Segmentation · ResNet-UNet · SegFormer</sub> | • TuSimple 기반 차선 영역 복원<br>• 분할 모델·손실 함수 비교 |
+| **[2025-Clothoid-R-Perception-JEJU](https://github.com/Minjea31/2025-Clothoid-R-Perception-JEJU)**<br><sub>Team Project · Camera Perception</sub> | • Camera 인지 파트 참여<br>• 카메라 객체 검출·ROS 인지 시스템<br>• 팀 프로젝트 Fork |
+| **[2026-AutoRace](https://github.com/Minjea31/2026-AutoRace)**<br><sub>Lane / Object Detection · ROS 2</sub> | • 카메라 기반 차선·표지판·객체 인지<br>• 검출 결과의 미션별 주행 시스템 연동 |
+| **[Clothoid-R_seminar](https://github.com/Minjea31/Clothoid-R_seminar)**<br><sub>YOLO · Camera Perception · ROS 2</sub> | • 객체 검출 모델 학습·카메라 인지 실습<br>• ROS 2 검출 결과 연동 |
 
 ### Project Notes
 
@@ -171,12 +170,12 @@ CNN과 VLM을 대상으로 구조적 프루닝, 양자화, 추론 동작을 실�
 
 | Project | Focus |
 | :--- | :--- |
-| [PG_erp_ws](https://github.com/Minjea31/PG_erp_ws) | ERP42 팀 프로젝트. 카메라 객체 인지를 포함한 인지·계획·제어 통합 시스템. |
-| [hackathon_ws](https://github.com/Minjea31/hackathon_ws) | ROS 2 차선 추종·장애물 판단·우선순위 제어 Mux. |
-| [2025_COSHOW_AutoRace](https://github.com/Minjea31/2025_COSHOW_AutoRace) | CO-SHOW 스케일카 자율주행 경진대회 팀 프로젝트. |
-| [RobotPrograming_lecture](https://github.com/Minjea31/RobotPrograming_lecture) | ROS 2·Gazebo 기반 라인 팔로워 구현. |
-| [rbp_project2](https://github.com/Minjea31/rbp_project2) | HSV·BEV 기반 차선 추종과 Fallback 제어. |
-| [PG_morai_ws](https://github.com/Minjea31/PG_morai_ws) | MORAI 팀 프로젝트. 신호등 인지를 포함한 시뮬레이터 주행 시스템. |
+| [PG_erp_ws](https://github.com/Minjea31/PG_erp_ws) | • ERP42 팀 프로젝트<br>• 카메라 객체 인지 및 계획·제어 통합 |
+| [hackathon_ws](https://github.com/Minjea31/hackathon_ws) | • ROS 2 차선 추종·장애물 판단<br>• 우선순위 제어 Mux |
+| [2025_COSHOW_AutoRace](https://github.com/Minjea31/2025_COSHOW_AutoRace) | • CO-SHOW 스케일카 자율주행 경진대회<br>• 팀 프로젝트 |
+| [RobotPrograming_lecture](https://github.com/Minjea31/RobotPrograming_lecture) | • ROS 2·Gazebo 기반 라인 팔로워 구현 |
+| [rbp_project2](https://github.com/Minjea31/rbp_project2) | • HSV·BEV 기반 차선 추종<br>• Fallback 제어 |
+| [PG_morai_ws](https://github.com/Minjea31/PG_morai_ws) | • MORAI 팀 프로젝트<br>• 신호등 인지·시뮬레이터 주행 시스템 |
 
 </details>
 
