@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Minjae Kim — Model Optimization · Autonomous Driving Perception" width="900" />
+  <img src="./assets/profile-banner.svg?v=3" alt="Minjae Kim — Model Optimization · Autonomous Driving Perception" width="900" />
 </p>
 
 <div align="center">
@@ -11,13 +11,13 @@
 <br><br>
 
 <h2><b>Interests</b></h2>
-<img src="https://img.shields.io/badge/Model%20Compression-151922?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTUgN2gxNE04IDEyaDhNMTAgMTdoNCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik04IDVsLTMgMiAzIDJNMTYgMTBsMyAyLTMgMk0xMCAxNWwtMyAyIDMgMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=" />
+<img src="https://img.shields.io/badge/Model%20Compression-263142?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTUgN2gxNE04IDEyaDhNMTAgMTdoNCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik04IDVsLTMgMiAzIDJNMTYgMTBsMyAyLTMgMk0xMCAxNWwtMyAyIDMgMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=" />
 <br>
-<img src="https://img.shields.io/badge/Pruning-162019?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYgNmMwIDMgMyA2IDYgNnM2IDMgNiA2IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik02IDE4YzAtMyAzLTYgNi02czYtMyA2LTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPHBhdGggZD0iTTE2IDRoNHY0TTE2IDIwaDR2LTQiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B" />
-<img src="https://img.shields.io/badge/Quantization-211D29?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTggOGg4TTggMTJoNU04IDE2aDMiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B" />
+<img src="https://img.shields.io/badge/Pruning-2F4A3A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTYgNmMwIDMgMyA2IDYgNnM2IDMgNiA2IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik02IDE4YzAtMyAzLTYgNi02czYtMyA2LTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPHBhdGggZD0iTTE2IDRoNHY0TTE2IDIwaDR2LTQiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPC9zdmc%2B" />
+<img src="https://img.shields.io/badge/Quantization-463E5C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTggOGg4TTggMTJoNU04IDE2aDMiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B" />
 <br>
-<img src="https://img.shields.io/badge/LLM-171E2A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTQgNmEzIDMgMCAwMTMtM2gxMGEzIDMgMCAwMTMgM3Y3YTMgMyAwIDAxLTMgM2gtNWwtNSA0di00SDdhMyAzIDAgMDEtMy0zeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTggOGg4TTggMTJoNSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=" />
-<img src="https://img.shields.io/badge/VLM-241C23?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIuNSAxMnMzLjUtNiA5LjUtNiA5LjUgNiA5LjUgNi0zLjUgNi05LjUgNi05LjUtNi05LjUtNnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B" />
+<img src="https://img.shields.io/badge/LLM-2E3E5C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTQgNmEzIDMgMCAwMTMtM2gxMGEzIDMgMCAwMTMgM3Y3YTMgMyAwIDAxLTMgM2gtNWwtNSA0di00SDdhMyAzIDAgMDEtMy0zeiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHBhdGggZD0iTTggOGg4TTggMTJoNSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=" />
+<img src="https://img.shields.io/badge/VLM-5A3D4D?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIuNSAxMnMzLjUtNiA5LjUtNiA5LjUgNiA5LjUgNi0zLjUgNi05LjUgNi05LjUtNi05LjUtNnoiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B" />
 <br><br>
 
 <h2><b>Tool</b></h2>
@@ -26,38 +26,38 @@
   <tr>
     <th>Robotics</th>
     <td>
-      <img src="https://img.shields.io/badge/ROS-151C29?style=for-the-badge&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
     </td>
   </tr>
   <tr>
     <th>AI / ML</th>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-241B1A?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hugging%20Face-252217?style=for-the-badge&logo=huggingface&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-15231E?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/YOLO-181D2B?style=for-the-badge&logo=yolo&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorRT-162019?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iNSIgeT0iNSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTMgOXY2TTIxIDl2Nk05IDNoNk05IDIxaDYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPHBhdGggZD0iTTEzIDdsLTQgNmgzbC0xIDQgNC02aC0zbDEtNHoiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B" />
+      <img src="https://img.shields.io/badge/PyTorch-5A3B35?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-5C5330?style=for-the-badge&logo=huggingface&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-314C43?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO-263455?style=for-the-badge&logo=yolo&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorRT-2F4A3A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iNSIgeT0iNSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHBhdGggZD0iTTMgOXY2TTIxIDl2Nk05IDNoNk05IDIxaDYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPHBhdGggZD0iTTEzIDdsLTQgNmgzbC0xIDQgNC02aC0zbDEtNHoiIGZpbGw9IndoaXRlIi8%2BPC9zdmc%2B" />
     </td>
   </tr>
   <tr>
     <th>Development</th>
     <td>
-      <img src="https://img.shields.io/badge/Visual_Studio-211D29?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iNCIgZmlsbD0id2hpdGUiLz48dGV4dCB4PSIxMiIgeT0iMTUuNSIgZm9udC1zaXplPSI4IiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzQ2M0U1QyI%2BVlM8L3RleHQ%2BPC9zdmc%2B" />
-      <img src="https://img.shields.io/badge/VSCode-15212A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC43IDQuMWwtMy44LTEuOGExIDEgMCAwIDAtMS4xLjJMOC42IDkgNS40IDYuNmEuNy43IDAgMCAwLS45IDBMMi40IDguNWEuNy43IDAgMCAwIDAgMWwyLjggMi41LTIuOCAyLjVhLjcuNyAwIDAgMCAwIDFsMi4xIDEuOWEuNy43IDAgMCAwIC45IDBMOC42IDE1bDcuMiA2LjVhMSAxIDAgMCAwIDEuMS4ybDMuOC0xLjhhMSAxIDAgMCAwIC42LS45VjVhMSAxIDAgMCAwLS42LS45ek0xNi40IDE2LjRMMTEgMTJsNS40LTQuNHY4Ljh6Ii8+PC9zdmc+" />
+      <img src="https://img.shields.io/badge/Visual_Studio-463E5C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iNCIgZmlsbD0id2hpdGUiLz48dGV4dCB4PSIxMiIgeT0iMTUuNSIgZm9udC1zaXplPSI4IiBmb250LWZhbWlseT0iQXJpYWwsc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzQ2M0U1QyI%2BVlM8L3RleHQ%2BPC9zdmc%2B" />
+      <img src="https://img.shields.io/badge/VSCode-2F4A5C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC43IDQuMWwtMy44LTEuOGExIDEgMCAwIDAtMS4xLjJMOC42IDkgNS40IDYuNmEuNy43IDAgMCAwLS45IDBMMi40IDguNWEuNy43IDAgMCAwIDAgMWwyLjggMi41LTIuOCAyLjVhLjcuNyAwIDAgMCAwIDFsMi4xIDEuOWEuNy43IDAgMCAwIC45IDBMOC42IDE1bDcuMiA2LjVhMSAxIDAgMCAwIDEuMS4ybDMuOC0xLjhhMSAxIDAgMCAwIC42LS45VjVhMSAxIDAgMCAwLS42LS45ek0xNi40IDE2LjRMMTEgMTJsNS40LTQuNHY4Ljh6Ii8+PC9zdmc+" />
     </td>
   </tr>
   <tr>
     <th>Docs / Design</th>
     <td>
-      <img src="https://img.shields.io/badge/Notion-171C24?style=for-the-badge&logo=notion&logoColor=white" />
-      <img src="https://img.shields.io/badge/draw.io-251E1A?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/Notion-1F2937?style=for-the-badge&logo=notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/draw.io-5A463D?style=for-the-badge&logo=diagrams.net&logoColor=white" />
     </td>
   </tr>
   <tr>
     <th>Infra / OS</th>
     <td>
-      <img src="https://img.shields.io/badge/Docker-15212A?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ubuntu-241B1A?style=for-the-badge&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2F4A5C?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu-5A3B35?style=for-the-badge&logo=ubuntu&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -66,11 +66,11 @@
 
 <h2>👨‍💻 Contact me 👨‍💻</h2>
 <a href="mailto:kimminjea31@naver.com">
-  <img src="https://img.shields.io/badge/Naver-kimminjea31%40naver.com-162019?style=for-the-badge&logo=naver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naver-kimminjea31%40naver.com-2F4A3A?style=for-the-badge&logo=naver&logoColor=white" />
 </a>
 <br>
 <a href="mailto:kimminjea31@chungbuk.ac.kr">
-  <img src="https://img.shields.io/badge/CBNU-kimminjea31%40chungbuk.ac.kr-171E2A?style=for-the-badge&logo=maildotru&logoColor=white" />
+  <img src="https://img.shields.io/badge/CBNU-kimminjea31%40chungbuk.ac.kr-2E3E5C?style=for-the-badge&logo=maildotru&logoColor=white" />
 </a>
 <br><br>
 
@@ -79,9 +79,9 @@
 ---
 
 <p align="center">
-  <a href="#model-optimization"><img src="./assets/nav-optimization.svg" alt="Model Optimization 섹션으로 이동" width="214" height="36" /></a>
+  <a href="#model-optimization"><img src="./assets/nav-optimization.svg?v=3" alt="Model Optimization 섹션으로 이동" width="214" height="36" /></a>
   &nbsp;
-  <a href="#autonomous-driving"><img src="./assets/nav-driving.svg" alt="Autonomous Driving 섹션으로 이동" width="214" height="36" /></a>
+  <a href="#autonomous-driving"><img src="./assets/nav-driving.svg?v=3" alt="Autonomous Driving 섹션으로 이동" width="214" height="36" /></a>
 </p>
 
 ---
@@ -89,11 +89,11 @@
 # Model Optimization
 
 <p>
-  <img src="./assets/optimization-intro.svg?v=2" alt="Pruning · Quantization · Inference Profiling — CNN·VLM 대상 모델 구조·정밀도 최적화; 구조적 프루닝·양자화·추론 동작 실험; 정확도·메모리·실행 비용 비교" width="100%" />
+  <img src="./assets/optimization-intro.svg?v=3" alt="Pruning · Quantization · Inference Profiling — CNN·VLM 대상 모델 구조·정밀도 최적화; 구조적 프루닝·양자화·추론 동작 실험; 정확도·메모리·실행 비용 비교" width="100%" />
 </p>
 
 <picture>
-  <img src="./assets/optimization.svg" alt="채널 프루닝과 가중치 양자화를 나타내는 개념도" width="900" />
+  <img src="./assets/optimization.svg?v=3" alt="채널 프루닝과 가중치 양자화를 나타내는 개념도" width="900" />
 </picture>
 
 ### Selected Projects
@@ -162,41 +162,21 @@
 # Autonomous Driving
 
 <p>
-  <img src="./assets/perception-intro.svg?v=2" alt="Perception · Object Detection · Lane Segmentation · ROS Integration — 카메라 기반 객체·차선 인지; 객체 검출·차선 분할 모델 실험; 인지 결과의 ROS·ROS 2 주행 시스템 연동" width="100%" />
+  <img src="./assets/perception-intro.svg?v=3" alt="Perception · Object Detection · Lane Segmentation · ROS Integration — 카메라 기반 객체·차선 인지; 객체 검출·차선 분할 모델 실험; 인지 결과의 ROS·ROS 2 주행 시스템 연동" width="100%" />
 </p>
 
 <picture>
-  <img src="./assets/driving.svg" alt="카메라 입력과 객체·차선 인지를 중심으로 ROS 주행 시스템에 연동하는 Perception 개념도" width="900" />
+  <img src="./assets/driving.svg?v=3" alt="카메라 입력과 객체·차선 인지를 중심으로 ROS 주행 시스템에 연동하는 Perception 개념도" width="900" />
 </picture>
 
 ### Selected Projects
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%" align="left">Project</th>
-      <th width="9999" align="left">Work</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td><strong><a href="https://github.com/Minjea31/LaneCompletion">LaneCompletion</a></strong><br><sub>Lane Segmentation · ResNet-UNet · SegFormer</sub></td>
-    <td>• TuSimple 기반 차선 영역 복원<br>• 분할 모델·손실 함수 비교</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/Minjea31/2025-Clothoid-R-Perception-JEJU">2025-Clothoid-R-Perception-JEJU</a></strong><br><sub>Team Project · Camera Perception</sub></td>
-    <td>• Camera 인지 파트 참여<br>• 카메라 객체 검출·ROS 인지 시스템<br>• 팀 프로젝트 Fork</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/Minjea31/2026-AutoRace">2026-AutoRace</a></strong><br><sub>Lane / Object Detection · ROS 2</sub></td>
-    <td>• 카메라 기반 차선·표지판·객체 인지<br>• 검출 결과의 미션별 주행 시스템 연동</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/Minjea31/Clothoid-R_seminar">Clothoid-R_seminar</a></strong><br><sub>YOLO · Camera Perception · ROS 2</sub></td>
-    <td>• 객체 검출 모델 학습·카메라 인지 실습<br>• ROS 2 검출 결과 연동</td>
-  </tr>
-  </tbody>
-</table>
+| Project | Work |
+| :--- | :--- |
+| **[LaneCompletion](https://github.com/Minjea31/LaneCompletion)**<br><sub>Lane Segmentation · ResNet-UNet · SegFormer</sub> | • TuSimple 기반 차선 영역 복원<br>• 분할 모델·손실 함수 비교 |
+| **[2025-Clothoid-R-Perception-JEJU](https://github.com/Minjea31/2025-Clothoid-R-Perception-JEJU)**<br><sub>Team Project · Camera Perception</sub> | • Camera 인지 파트 참여<br>• 카메라 객체 검출·ROS 인지 시스템<br>• 팀 프로젝트 Fork |
+| **[2026-AutoRace](https://github.com/Minjea31/2026-AutoRace)**<br><sub>Lane / Object Detection · ROS 2</sub> | • 카메라 기반 차선·표지판·객체 인지<br>• 검출 결과의 미션별 주행 시스템 연동 |
+| **[Clothoid-R_seminar](https://github.com/Minjea31/Clothoid-R_seminar)**<br><sub>YOLO · Camera Perception · ROS 2</sub> | • 객체 검출 모델 학습·카메라 인지 실습<br>• ROS 2 검출 결과 연동 |
 
 ### Project Notes
 
