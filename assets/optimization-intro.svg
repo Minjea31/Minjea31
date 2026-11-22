@@ -3,25 +3,25 @@
   <desc id="desc">CNN·VLM 대상 모델 구조·정밀도 최적화. 구조적 프루닝·양자화·추론 동작 실험. 정확도·메모리·실행 비용 비교.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#0a0e0c"/>
-      <stop offset=".55" stop-color="#090c0e"/>
-      <stop offset="1" stop-color="#0d0c11"/>
+      <stop stop-color="#21141c"/>
+      <stop offset=".55" stop-color="#1c1219"/>
+      <stop offset="1" stop-color="#171015"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
-      <stop stop-color="#8caa98"/>
-      <stop offset="1" stop-color="#777d91"/>
+      <stop stop-color="#b18499"/>
+      <stop offset="1" stop-color="#765565"/>
     </linearGradient>
   </defs>
-  <rect x=".75" y=".75" width="898.5" height="188.5" rx="14" fill="url(#background)" stroke="#29332e" stroke-width="1.5"/>
+  <rect x=".75" y=".75" width="898.5" height="188.5" rx="14" fill="url(#background)" stroke="#59414e" stroke-width="1.5"/>
   <rect x="22" y="25" width="4" height="140" rx="2" fill="url(#accent)"/>
   <g font-family="Noto Sans CJK KR,Malgun Gothic,Apple SD Gothic Neo,Arial,sans-serif">
-    <text x="46" y="43" fill="#acbfb3" font-size="20" font-weight="700">Pruning · Quantization · Inference Profiling</text>
+    <text x="46" y="43" fill="#c9a4b5" font-size="20" font-weight="700">Pruning · Quantization · Inference Profiling</text>
     <g fill="#ced0d6" font-size="17">
-      <circle cx="51" cy="80" r="3" fill="#8caa98"/>
+      <circle cx="51" cy="80" r="3" fill="#b18499"/>
       <text x="67" y="86">CNN·VLM 대상 모델 구조·정밀도 최적화</text>
-      <circle cx="51" cy="115" r="3" fill="#8b96a1"/>
+      <circle cx="51" cy="115" r="3" fill="#a17f91"/>
       <text x="67" y="121">구조적 프루닝·양자화·추론 동작 실험</text>
-      <circle cx="51" cy="150" r="3" fill="#a08a97"/>
+      <circle cx="51" cy="150" r="3" fill="#916f81"/>
       <text x="67" y="156">정확도·메모리·실행 비용 비교</text>
     </g>
   </g>

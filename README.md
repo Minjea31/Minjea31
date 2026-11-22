@@ -89,11 +89,11 @@
 # Model Optimization
 
 <p>
-  <img src="./assets/optimization-intro.svg?v=3" alt="Pruning · Quantization · Inference Profiling — CNN·VLM 대상 모델 구조·정밀도 최적화; 구조적 프루닝·양자화·추론 동작 실험; 정확도·메모리·실행 비용 비교" width="100%" />
+  <img src="./assets/optimization-intro.svg?v=4" alt="Pruning · Quantization · Inference Profiling — CNN·VLM 대상 모델 구조·정밀도 최적화; 구조적 프루닝·양자화·추론 동작 실험; 정확도·메모리·실행 비용 비교" width="100%" />
 </p>
 
 <picture>
-  <img src="./assets/optimization.svg?v=3" alt="채널 프루닝과 가중치 양자화를 나타내는 개념도" width="900" />
+  <img src="./assets/optimization.svg?v=4" alt="채널 프루닝과 가중치 양자화를 나타내는 개념도" width="900" />
 </picture>
 
 ### Selected Projects
@@ -162,11 +162,11 @@
 # Autonomous Driving
 
 <p>
-  <img src="./assets/perception-intro.svg?v=3" alt="Perception · Object Detection · Lane Segmentation · ROS Integration — 카메라 기반 객체·차선 인지; 객체 검출·차선 분할 모델 실험; 인지 결과의 ROS·ROS 2 주행 시스템 연동" width="100%" />
+  <img src="./assets/perception-intro.svg?v=4" alt="Perception · Object Detection · Lane Segmentation · ROS Integration — 카메라 기반 객체·차선 인지; 객체 검출·차선 분할 모델 실험; 인지 결과의 ROS·ROS 2 주행 시스템 연동" width="100%" />
 </p>
 
 <picture>
-  <img src="./assets/driving.svg?v=3" alt="카메라 입력과 객체·차선 인지를 중심으로 ROS 주행 시스템에 연동하는 Perception 개념도" width="900" />
+  <img src="./assets/driving.svg?v=4" alt="카메라 입력과 객체·차선 인지를 중심으로 ROS 주행 시스템에 연동하는 Perception 개념도" width="900" />
 </picture>
 
 ### Selected Projects
