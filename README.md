@@ -79,21 +79,3 @@
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Minjea31&show_icons=true&theme=radical&count_private=true" width="420" />
 
 </div>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 June 2026 - To: 30 October 2026
-
-Total Time: 49 hrs 53 mins
-
-Python        21 hrs 32 mins        ██████████▓░░░░░░░░░░░░░░   43.02 %
-XML           20 hrs 26 mins        ██████████▒░░░░░░░░░░░░░░   40.83 %
-Markdown      4 hrs 55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Bash          58 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-C++           47 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-```
-
-<!--END_SECTION:waka-->
