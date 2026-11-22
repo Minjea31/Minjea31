@@ -1,21 +1,10 @@
+<a name="top"></a>
+
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Minjae Kim — Model Optimization · Autonomous Driving Perception" width="900" />
+</p>
+
 <div align="center">
-  <img src="./assets/header.svg" alt="Minjae's GitHub" width="405" />
-  <br><br>
-
-<a href="https://hits.sh/github.com/Minjea31/Minjea31.git/">
-  <img src="https://hits.sh/github.com/Minjea31/Minjea31.git.svg?view=today-total&label=Visitor&color=475569&logo=github" />
-</a>
-<br><br>
-
-<h2>👨‍💻 Contact me 👨‍💻</h2>
-<a href="mailto:kimminjea31@naver.com">
-  <img src="https://img.shields.io/badge/Naver-kimminjea31%40naver.com-2F4A3A?style=for-the-badge&logo=naver&logoColor=white" />
-</a>
-<br>
-<a href="mailto:kimminjea31@chungbuk.ac.kr">
-  <img src="https://img.shields.io/badge/CBNU-kimminjea31%40chungbuk.ac.kr-2E3E5C?style=for-the-badge&logo=maildotru&logoColor=white" />
-</a>
-<br><br>
 
 <h2><b>Language</b></h2>
 <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
@@ -75,7 +64,120 @@
 
 <br><br>
 
-<h2><b>📋 Stat 📋</b></h2>
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Minjea31&show_icons=true&theme=radical&count_private=true" width="420" />
+<h2>👨‍💻 Contact me 👨‍💻</h2>
+<a href="mailto:kimminjea31@naver.com">
+  <img src="https://img.shields.io/badge/Naver-kimminjea31%40naver.com-2F4A3A?style=for-the-badge&logo=naver&logoColor=white" />
+</a>
+<br>
+<a href="mailto:kimminjea31@chungbuk.ac.kr">
+  <img src="https://img.shields.io/badge/CBNU-kimminjea31%40chungbuk.ac.kr-2E3E5C?style=for-the-badge&logo=maildotru&logoColor=white" />
+</a>
+<br><br>
 
 </div>
+
+---
+
+<p align="center">
+  <a href="#model-optimization"><img src="./assets/nav-optimization.svg" alt="Model Optimization 섹션으로 이동" width="214" height="36" /></a>
+  &nbsp;
+  <a href="#autonomous-driving"><img src="./assets/nav-driving.svg" alt="Autonomous Driving 섹션으로 이동" width="214" height="36" /></a>
+</p>
+
+---
+
+## Model Optimization
+
+**Pruning · Quantization · Inference Profiling**
+
+모델의 구조와 정밀도를 바꾸고, 정확도와 실행 비용을 비교합니다.
+CNN과 VLM을 대상으로 구조적 프루닝, 양자화, 추론 동작을 실험하고 있습니다.
+
+<picture>
+  <img src="./assets/optimization.svg" alt="채널 프루닝과 가중치 양자화를 나타내는 개념도" width="900" />
+</picture>
+
+### Selected Projects
+
+| Project | Work |
+| :--- | :--- |
+| **[TinyLLaVA-PruneQuant](https://github.com/Minjea31/TinyLLaVA-PruneQuant)**<br><sub>VLM · Quantization</sub> | FP16·INT4·혼합 정밀도를 비교하고, 정확도·Peak VRAM·처리 시간을 기록합니다. |
+| **[yolov12_pruning](https://github.com/Minjea31/yolov12_pruning)**<br><sub>Structured Pruning</sub> | FPGM 기반 채널 프루닝과 모델 구조 재구성, 레이어별 프루닝 비율을 실험합니다. |
+| **[yolov12_HRANK_Pruning](https://github.com/Minjea31/yolov12_HRANK_Pruning)**<br><sub>Comparative Study</sub> | 동일한 프루닝 비율에서 HRank·FPGM·Random을 비교하고, 특징 맵 rank의 변별력을 분석합니다. |
+| **[yolo26_FPGM_pruning](https://github.com/Minjea31/yolo26_FPGM_pruning)**<br><sub>Channel Pruning · Fine-tuning</sub> | YOLO26의 채널을 제거하고 구조를 재구성한 모델로 파인튜닝합니다. |
+| **[yolo26_quntization](https://github.com/Minjea31/yolo26_quntization)**<br>**[yolo26_TensorRT](https://github.com/Minjea31/yolo26_TensorRT)**<br><sub>PTQ · ONNX · TensorRT</sub> | 양자화 민감도와 실제 실행 커널을 분석하고, ONNX·TensorRT 변환 및 추론을 확인합니다. |
+
+### Experiment Notes
+
+- [TinyLLaVA 양자화 실험 요약](https://github.com/Minjea31/TinyLLaVA-PruneQuant/blob/main/docs/experiment_summary.md)
+- [HRank 비교 결과와 한계](https://github.com/Minjea31/yolov12_HRANK_Pruning/blob/main/HRANK.md)
+- [YOLO26 구조 재구성과 채널 정렬 기록](https://github.com/Minjea31/yolo26_quntization/blob/main/prune.md)
+
+<details>
+<summary><b>More Projects & Reference Forks</b></summary>
+
+**Industry Project**
+
+- [MKsolution](https://github.com/Minjea31/MKsolution): MKsolution 기업과 진행한 YOLO 모델 학습·프루닝 과제.
+
+**Research Archive**
+
+- [LLAVA_ARCH_study](https://github.com/Minjea31/LLAVA_ARCH_study): LLaVA-7B 구조 분석, 프루닝·양자화 실험과 실행 비용 기록.
+
+**Reference Forks**
+
+아래 저장소는 논문 구현을 참고하기 위한 Fork입니다.
+
+- [FPGM](https://github.com/Minjea31/filter-pruning-geometric-median) — 원본: [he-y](https://github.com/he-y/filter-pruning-geometric-median)
+- [HRank](https://github.com/Minjea31/HRank) — 원본: [lmbxmu](https://github.com/lmbxmu/HRank)
+- [ToMe](https://github.com/Minjea31/ToMe) — 원본: [facebookresearch](https://github.com/facebookresearch/ToMe)
+- [CrossKD](https://github.com/Minjea31/CrossKD) — 원본: [jbwang1997](https://github.com/jbwang1997/CrossKD)
+
+</details>
+
+[↑ Back to top](#top)
+
+---
+
+## Autonomous Driving
+
+**Perception · Object Detection · Lane Segmentation · ROS Integration**
+
+- 카메라 기반 객체·차선 인지
+- 객체 검출·차선 분할 모델 실험
+- 인지 결과의 ROS·ROS 2 주행 시스템 연동
+
+<picture>
+  <img src="./assets/driving.svg" alt="카메라 입력과 객체·차선 인지를 중심으로 ROS 주행 시스템에 연동하는 Perception 개념도" width="900" />
+</picture>
+
+### Selected Projects
+
+| Project | Work |
+| :--- | :--- |
+| **[LaneCompletion](https://github.com/Minjea31/LaneCompletion)**<br><sub>Lane Segmentation · ResNet-UNet · SegFormer</sub> | TuSimple 데이터로 차선 영역을 복원하고, 분할 모델과 손실 함수를 비교합니다. |
+| **[2025-Clothoid-R-Perception-JEJU](https://github.com/Minjea31/2025-Clothoid-R-Perception-JEJU)**<br><sub>Team Project · Camera Perception</sub> | Camera 인지 파트에 참여한 팀 프로젝트의 Fork입니다. 카메라 객체 검출과 ROS 기반 인지 시스템을 다룹니다. |
+| **[2026-AutoRace](https://github.com/Minjea31/2026-AutoRace)**<br><sub>Lane / Object Detection · ROS 2</sub> | 카메라 기반 차선·표지판·객체 인지를 중심으로, 검출 결과를 미션별 주행 시스템에 연동합니다. |
+| **[Clothoid-R_seminar](https://github.com/Minjea31/Clothoid-R_seminar)**<br><sub>YOLO · Camera Perception · ROS 2</sub> | 객체 검출 모델 학습과 카메라 인지 실습, ROS 2 검출 결과 연동을 정리합니다. |
+
+### Project Notes
+
+- [AutoRace 노드 구조와 토픽 흐름](https://github.com/Minjea31/2026-AutoRace/blob/main/docs/architecture.md)
+- [카메라 인지와 ROS 2 연동 기록](https://github.com/Minjea31/Clothoid-R_seminar/blob/main/README.md)
+- [차선 복원 모델과 실험 구성](https://github.com/Minjea31/LaneCompletion/blob/main/README.md)
+
+<details>
+<summary><b>Team Projects & Robotics Practice</b></summary>
+
+| Project | Focus |
+| :--- | :--- |
+| [PG_erp_ws](https://github.com/Minjea31/PG_erp_ws) | ERP42 팀 프로젝트. 카메라 객체 인지를 포함한 인지·계획·제어 통합 시스템. |
+| [hackathon_ws](https://github.com/Minjea31/hackathon_ws) | ROS 2 차선 추종·장애물 판단·우선순위 제어 Mux. |
+| [2025_COSHOW_AutoRace](https://github.com/Minjea31/2025_COSHOW_AutoRace) | CO-SHOW 스케일카 자율주행 경진대회 팀 프로젝트. |
+| [RobotPrograming_lecture](https://github.com/Minjea31/RobotPrograming_lecture) | ROS 2·Gazebo 기반 라인 팔로워 구현. |
+| [rbp_project2](https://github.com/Minjea31/rbp_project2) | HSV·BEV 기반 차선 추종과 Fallback 제어. |
+| [PG_morai_ws](https://github.com/Minjea31/PG_morai_ws) | MORAI 팀 프로젝트. 신호등 인지를 포함한 시뮬레이터 주행 시스템. |
+
+</details>
+
+[↑ Back to top](#top)

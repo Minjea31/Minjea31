@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="224" viewBox="0 0 900 224" role="img" aria-labelledby="title description">
+  <title id="title">Minjae Kim — Model Optimization and Autonomous Driving Perception</title>
+  <desc id="description">Two independent interests: model optimization and autonomous driving perception. Chungbuk National University. kimminjea31@chungbuk.ac.kr.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#17232b"/>
+      <stop offset=".55" stop-color="#232536"/>
+      <stop offset="1" stop-color="#2c3844"/>
+    </linearGradient>
+    <radialGradient id="sage">
+      <stop stop-color="#87c5ad" stop-opacity=".66"/>
+      <stop offset="1" stop-color="#87c5ad" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="pink">
+      <stop stop-color="#bc8ab2" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#bc8ab2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fff" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".035"/>
+    </linearGradient>
+    <clipPath id="rounded"><rect width="900" height="224" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="900" height="224" fill="url(#background)"/>
+    <ellipse cx="118" cy="20" rx="382" ry="257" fill="url(#sage)"/>
+    <ellipse cx="819" cy="31" rx="352" ry="248" fill="url(#pink)"/>
+    <rect x="42" y="30" width="816" height="166" rx="22" fill="url(#glass)" stroke="#fff" stroke-opacity=".19"/>
+    <path d="M65 31h770" stroke="#fff" stroke-opacity=".13"/>
+    <g font-family="Helvetica Neue,Arial,Helvetica,sans-serif">
+      <text x="78" y="81" fill="#f3f5f8" font-size="39" font-weight="700" letter-spacing=".35">Minjae Kim</text>
+      <text x="79" y="113" fill="#ffbfd5" font-size="18" font-weight="500">Model Optimization · Autonomous Driving Perception</text>
+      <text x="79" y="140" fill="#c6d1df" font-size="14">Chungbuk National University</text>
+      <text x="79" y="164" fill="#acbfd1" font-size="13">kimminjea31@chungbuk.ac.kr · @Minjea31</text>
+    </g>
+  </g>
+</svg>
