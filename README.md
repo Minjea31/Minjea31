@@ -185,7 +185,7 @@
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Minjea31/2025-Clothoid-R-Perception-JEJU">2025-Clothoid-R-Perception-JEJU</a></strong><br><sub>Team Project · Camera Perception</sub></td>
-    <td>• Camera 인지 파트 참여<br>• 카메라 객체 검출·ROS 인지 시스템<br>• 팀 프로젝트 Fork</td>
+    <td>• Camera 인지 파트 참여<br>• 카메라 객체 검출·ROS 인지 시스템<br>• 제4회 국제 대학생 EV 자율주행 경진대회 · 최우수상 수상</td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/Minjea31/2026-AutoRace">2026-AutoRace</a></strong><br><sub>Lane / Object Detection · ROS 2</sub></td>
