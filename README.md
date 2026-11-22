@@ -162,7 +162,7 @@
 # Autonomous Driving
 
 <p>
-  <img src="./assets/perception-intro.svg?v=4" alt="Perception · Object Detection · Lane Segmentation · ROS Integration — 카메라 기반 객체·차선 인지; 객체 검출·차선 분할 모델 실험; 인지 결과의 ROS·ROS 2 주행 시스템 연동" width="100%" />
+  <img src="./assets/perception-intro.svg?v=5" alt="Perception · Object Detection · Lane Segmentation · ROS Integration — 카메라 기반 객체·차선 인지; 객체 검출·차선 분할 모델 실험; 인지 결과의 ROS·ROS 2 주행 시스템 연동" width="100%" />
 </p>
 
 <picture>
@@ -171,12 +171,32 @@
 
 ### Selected Projects
 
-| Project | Work |
-| :--- | :--- |
-| **[LaneCompletion](https://github.com/Minjea31/LaneCompletion)**<br><sub>Lane Segmentation · ResNet-UNet · SegFormer</sub> | • TuSimple 기반 차선 영역 복원<br>• 분할 모델·손실 함수 비교 |
-| **[2025-Clothoid-R-Perception-JEJU](https://github.com/Minjea31/2025-Clothoid-R-Perception-JEJU)**<br><sub>Team Project · Camera Perception</sub> | • Camera 인지 파트 참여<br>• 카메라 객체 검출·ROS 인지 시스템<br>• 팀 프로젝트 Fork |
-| **[2026-AutoRace](https://github.com/Minjea31/2026-AutoRace)**<br><sub>Lane / Object Detection · ROS 2</sub> | • 카메라 기반 차선·표지판·객체 인지<br>• 검출 결과의 미션별 주행 시스템 연동 |
-| **[Clothoid-R_seminar](https://github.com/Minjea31/Clothoid-R_seminar)**<br><sub>YOLO · Camera Perception · ROS 2</sub> | • 객체 검출 모델 학습·카메라 인지 실습<br>• ROS 2 검출 결과 연동 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%" align="left">Project</th>
+      <th width="9999" align="left">Work</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td><strong><a href="https://github.com/Minjea31/LaneCompletion">LaneCompletion</a></strong><br><sub>Lane Segmentation · ResNet-UNet · SegFormer</sub></td>
+    <td>• TuSimple 기반 차선 영역 복원<br>• 분할 모델·손실 함수 비교</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Minjea31/2025-Clothoid-R-Perception-JEJU">2025-Clothoid-R-Perception-JEJU</a></strong><br><sub>Team Project · Camera Perception</sub></td>
+    <td>• Camera 인지 파트 참여<br>• 카메라 객체 검출·ROS 인지 시스템<br>• 팀 프로젝트 Fork</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Minjea31/2026-AutoRace">2026-AutoRace</a></strong><br><sub>Lane / Object Detection · ROS 2</sub></td>
+    <td>• 카메라 기반 차선·표지판·객체 인지<br>• 검출 결과의 미션별 주행 시스템 연동</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/Minjea31/Clothoid-R_seminar">Clothoid-R_seminar</a></strong><br><sub>YOLO · Camera Perception · ROS 2</sub></td>
+    <td>• 객체 검출 모델 학습·카메라 인지 실습<br>• ROS 2 검출 결과 연동</td>
+  </tr>
+  </tbody>
+</table>
 
 ### Project Notes
 

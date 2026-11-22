@@ -3,16 +3,16 @@
   <desc id="desc">카메라 기반 객체·차선 인지. 객체 검출·차선 분할 모델 실험. 인지 결과의 ROS·ROS 2 주행 시스템 연동.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#102018"/>
-      <stop offset=".55" stop-color="#101b15"/>
-      <stop offset="1" stop-color="#0d1711"/>
+      <stop stop-color="#153222"/>
+      <stop offset=".55" stop-color="#122c1e"/>
+      <stop offset="1" stop-color="#102619"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
       <stop stop-color="#86a58f"/>
       <stop offset="1" stop-color="#4f725c"/>
     </linearGradient>
   </defs>
-  <rect x=".75" y=".75" width="898.5" height="188.5" rx="14" fill="url(#background)" stroke="#385544" stroke-width="1.5"/>
+  <rect x=".75" y=".75" width="898.5" height="188.5" rx="14" fill="url(#background)" stroke="#426d51" stroke-width="1.5"/>
   <rect x="22" y="25" width="4" height="140" rx="2" fill="url(#accent)"/>
   <g font-family="Noto Sans CJK KR,Malgun Gothic,Apple SD Gothic Neo,Arial,sans-serif">
     <text x="46" y="43" fill="#aac4b3" font-size="19" font-weight="700">Perception · Object Detection · Lane Segmentation · ROS Integration</text>
