@@ -89,7 +89,7 @@
 # Model Optimization
 
 <p>
-  <img src="./assets/optimization-intro.svg" alt="Pruning · Quantization · Inference Profiling — CNN·VLM 대상 모델 구조·정밀도 최적화; 구조적 프루닝·양자화·추론 동작 실험; 정확도·메모리·실행 비용 비교" width="100%" />
+  <img src="./assets/optimization-intro.svg?v=2" alt="Pruning · Quantization · Inference Profiling — CNN·VLM 대상 모델 구조·정밀도 최적화; 구조적 프루닝·양자화·추론 동작 실험; 정확도·메모리·실행 비용 비교" width="100%" />
 </p>
 
 <picture>
@@ -162,7 +162,7 @@
 # Autonomous Driving
 
 <p>
-  <img src="./assets/perception-intro.svg" alt="Perception · Object Detection · Lane Segmentation · ROS Integration — 카메라 기반 객체·차선 인지; 객체 검출·차선 분할 모델 실험; 인지 결과의 ROS·ROS 2 주행 시스템 연동" width="100%" />
+  <img src="./assets/perception-intro.svg?v=2" alt="Perception · Object Detection · Lane Segmentation · ROS Integration — 카메라 기반 객체·차선 인지; 객체 검출·차선 분할 모델 실험; 인지 결과의 ROS·ROS 2 주행 시스템 연동" width="100%" />
 </p>
 
 <picture>
